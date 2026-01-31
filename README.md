@@ -1,2 +1,2 @@
 # 3D-OpenCL
-3d engine from Opencl + C
+GPU accelerated 3d Engine using OpenCL
